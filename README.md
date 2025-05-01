@@ -82,7 +82,6 @@ The data is stored in `data/urdu_articles.csv`. It includes preprocessed text da
    - Use `logistic_regression.ipynb`, `multinomial_bayes.ipynb`, or `neural_network.ipynb` to explore model implementations.
 
 ## Contributing
-
 Contributions are welcome! If you have improvements or suggestions, please fork the repository and submit a pull request.
 
 ## License
